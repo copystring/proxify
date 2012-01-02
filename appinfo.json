@@ -1,0 +1,10 @@
+{
+  "id": "com.palm.proxify",
+  "version": "1.0.1",
+  "vendor": "copystring",
+  "type": "web",
+  "main": "index.html",
+  "title": "Proxify",
+  "uiRevision": "2",
+  "icon": "proxify.png",
+}
